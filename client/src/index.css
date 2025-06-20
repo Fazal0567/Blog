@@ -2,14 +2,15 @@
 @import "tailwindcss";
 
 *{
-  font-family: "Outfit", sans-serif;
+   font-family: "Outfit", sans-serif;
 }
 
 ::-webkit-scrollbar {
-  display:none;
+  display: none;
 }
+
 @theme {
-  --color-primary: #129990;
+  --color-primary: #5044E5;
 }
 
 .rich-text { font-size: 15px;  }
