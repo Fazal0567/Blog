@@ -1,4 +1,4 @@
-# 🚀 QuickBlog
+# 🚀 Blog
 
 QuickBlog is a modern, full-stack blogging platform built with React, Vite, Express, and MongoDB. It features a beautiful UI, rich text editing, AI-powered content generation, image uploads, and a robust admin dashboard for managing blogs and comments.
 
