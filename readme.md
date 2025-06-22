@@ -58,14 +58,14 @@ server/
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/quickblog.git
-cd quickblog
+git clone https://github.com/yourusername/Blog.git
+cd Blog
 ```
 
 ### 2. Setup the Server
 
 ```sh
-cd server
+cd backend
 cp .env.example .env   # Fill in your credentials
 npm install
 npm run server         # Starts with nodemon
@@ -74,7 +74,7 @@ npm run server         # Starts with nodemon
 ### 3. Setup the Client
 
 ```sh
-cd ../client
+cd ../frontend
 cp .env.example .env   # Set VITE_BASE_URL (e.g., http://localhost:3000)
 npm install
 npm run dev
